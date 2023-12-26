@@ -1,6 +1,6 @@
 # Hello, I'm Sangam Giri! 👋
 
-I'm a Full Stack Flutter and Nest Developer based in [Your Location]. Welcome to my GitHub profile!
+I'm a Full Stack Flutter and Nest Developer based in Nepal. Welcome to my GitHub profile!
 
 ## 🔧 Technologies & Tools
 
