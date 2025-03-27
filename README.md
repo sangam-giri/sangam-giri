@@ -19,12 +19,6 @@ I'm a Full Stack Flutter and Nest Developer based in Nepal. Welcome to my GitHub
 - Exploring advanced Flutter concepts
 - Enhancing NestJS skills
 
-## 📈 GitHub Stats
-
-[![Sangam Giri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sangam-giri&show_icons=true&count_private=true&hide=contribs)](https://github.com/sangam-giri)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sangam-giri&layout=compact)](https://github.com/sangam-giri)
-
 ## 📫 How to Reach Me
 
 - [LinkedIn](https://www.linkedin.com/in/sangam-giri/)
