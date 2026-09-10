@@ -1,25 +1,50 @@
-# Hello, I'm Sangam Giri! 👋
+# Sangam Giri
 
-I'm a Full Stack Flutter and Nest Developer based in Nepal. Welcome to my GitHub profile!
+**Software Engineer · Mobile Architect · Systems & R&D**
 
-## 🔧 Technologies & Tools
+I build production software, developer tools, and experimental systems.
 
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+My primary engineering background is **Flutter/Dart and full-stack development**, with growing work in **Rust, programming languages, compilers, developer tooling, and systems engineering**.
 
-## 🌱 I'm Currently Learning
+### What I work with
 
-- Exploring advanced Flutter concepts
-- Enhancing NestJS skills
+`Flutter` `Dart` `Rust` `TypeScript` `NestJS` `Next.js` `PostgreSQL` `Docker` `GitHub Actions`
 
-## 📫 How to Reach Me
+### Featured Work
 
-- [LinkedIn](https://www.linkedin.com/in/sangam-giri/)
-- [Facebook](https://www.facebook.com/sangamgiri00)
+#### 🇳🇵 नेपाली — Nepali Programming Language
+
+A general-purpose programming language designed for Nepali speakers.
+
+* Rust implementation
+* Lexer → Parser → AST → Semantic Analysis
+* Interpreter + Bytecode VM
+* Static typing
+* Closures and OOP
+* Package manager
+* Formatter
+* Language Server
+* Cross-platform CLI
+
+**[Explore नेपाली →](https://github.com/sangam-giri/nepali-language)**
+
+---
+
+### Engineering Interests
+
+* Programming languages & compilers
+* Developer tooling
+* Mobile architecture
+* Distributed systems
+* Automation
+* AI & intelligent systems
+* Robotics & technology R&D
+
+### Currently
+
+Building production software while exploring the boundary between **application engineering and systems/R&D**.
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/sangam-giri)
+· [Website](https://satritech.com)
