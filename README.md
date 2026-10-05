@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2B,100:0B7A75&height=190&section=header&text=Sangam%20Giri&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Founder%20%C2%B7%20Builder%20%C2%B7%20Researcher&descAlignY=58&descSize=16" alt="Sangam Giri" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2B,100:0B7A75&height=190&section=header&text=Sangam%20Giri&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Founder%20%C2%B7%20Researcher%20%C2%B7%20Builder&descAlignY=58&descSize=16" alt="Sangam Giri" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=0B7A75&center=true&vCenter=true&width=700&lines=building+systems%2C+not+just+software;curiosity+drives+the+questions;engineering+turns+ideas+into+reality;discover.+design.+dominate." alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=0B7A75&center=true&vCenter=true&width=720&lines=I+build+systems%2C+tools%2C+and+ideas;curiosity+drives+the+questions;engineering+turns+ideas+into+reality;from+mobile+apps+to+programming+languages;discover.+design.+dominate." alt="typing" />
 
 <br/>
 
@@ -12,7 +12,7 @@
 <a href="https://github.com/sangam-giri">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/sangam-giri/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
@@ -22,182 +22,64 @@
 
 </div>
 
-## 🧭 `whoami`
+# 👋 Hello, I'm Sangam
 
-```dart
-class Sangam {
-  final role = "Software Engineer & Founder";
-  final focus = [
-    "Flutter",
-    "Full-Stack Systems",
-    "Software Architecture",
-    "Developer Tools",
-    "AI & Automation",
-    "Research & Innovation",
-  ];
+I'm a **Software Engineer, founder, and independent builder** from Nepal.
 
-  final philosophy =
-      "Build things that make difficult problems easier.";
+I work across **mobile, backend, web, infrastructure, developer tooling, programming languages, and research**.
 
-  final superpower =
-      "connecting ideas across disciplines";
+My interests tend to converge around one question:
 
-  final fuel = "curiosity";
-}
-```
+> **How can we use technology to solve problems that matter?**
 
-I'm a **software engineer, founder, and builder** interested in the space where engineering, research, business, and human problems intersect.
+I don't like keeping disciplines in separate boxes.
 
-I started with software development and gradually became more interested in the systems behind it — **how products should be architected, how tools can make developers dramatically more productive, and how technology can solve problems that are still considered difficult or inconvenient.**
+Software engineering leads me to systems.
+Systems lead me to research.
+Research leads me to new tools.
+Tools lead me to products.
+Products lead me back to real-world problems.
 
-I enjoy going deep.
-
-From designing production-grade Flutter applications and backend systems to exploring AI, developer tooling, automation, robotics, and eventually deeper technical research, I'm interested in understanding **why things work**, not just learning how to use them.
-
-> **I don't want to simply build software. I want to build technology.**
+That's the loop I enjoy.
 
 ---
 
-## 🚀 What I'm Building
+# 🏗️ Things I've Built
 
-### 🏢 SATRI
+## 🏢 SATRI — Research & Innovation
 
-**Samarth Technical Research and Innovations**
+<a href="https://satritech.com">
 
-A technology company built around a long-term vision of combining **research, engineering, and practical innovation**.
+<img src="https://img.shields.io/badge/SATRI-Research%20%26%20Innovation-0B7A75?style=for-the-badge" />
 
-Areas of interest include:
+</a>
 
-- Software & Hardware
-- AI & Automation
-- Robotics
-- IoT
-- Security
-- Developer Tools
-- Applied Research
-- Technology Products
+**Samarth Technical Research and Innovations Pvt. Ltd.**
 
-**Discover. Design. Dominate.**
+SATRI is my long-term attempt to build something larger than a software company:
 
----
+> **an independent technology research and innovation ecosystem.**
 
-### 🧩 FlutterMaker
+The vision spans:
 
-A developer tool focused on making Flutter UI development dramatically faster.
+- 🔬 Technical Research
+- 🤖 Robotics
+- 🧠 Artificial Intelligence
+- 💻 Software Engineering
+- 🔐 Security
+- 🌐 IoT
+- ⚙️ Hardware
+- 🧪 Applied Research
+- 🚀 Technology Products
 
-**Less Code, More Magic.**
-
-The long-term vision goes beyond a visual builder — toward an intelligent development environment that understands:
-
-- UI structure
-- Flutter widgets
-- project architecture
-- reusable components
-- design tokens
-- navigation
-- generated code
-- project consistency
-
----
-
-### 🛠️ Production Software
-
-I spend a lot of time building and maintaining real-world applications where architecture, reliability, and maintainability actually matter.
-
-My engineering interests include:
-
-- Clean Architecture
-- Feature-first architecture
-- BLoC / reactive state management
-- API design
-- Offline-first systems
-- Idempotency & reliability
-- CI/CD
-- Cloud infrastructure
-- Developer experience
-
----
-
-## 🧠 Areas I'm Exploring
-
-I'm particularly interested in the intersection of:
-
-**Software Engineering × AI × Systems × Robotics × Human Behavior**
-
-Some questions that keep me interested:
-
-- How can software systems become more resilient?
-- How can AI become genuinely useful rather than merely impressive?
-- How should intelligent agents interact with complex software systems?
-- Can developer tools understand the structure and intent of a codebase?
-- How can robotics solve meaningful real-world problems?
-- How do we turn research into technology people can actually use?
-
----
-
-## 🧰 Toolbox
-
-| Domain | Technologies |
-| :-- | :-- |
-| 📱 **Mobile** | Flutter · Dart · Android · iOS |
-| 🧠 **Architecture** | Clean Architecture · SOLID · BLoC · Dependency Injection |
-| 🌐 **Backend** | NestJS · Node.js · Django · REST APIs |
-| 💻 **Frontend** | Next.js · React · TypeScript |
-| 🗄️ **Databases** | PostgreSQL · MongoDB · Redis |
-| 🤖 **AI / ML** | AI APIs · Agents · LLM tooling · Automation |
-| ☁️ **Infrastructure** | Docker · Linux · Nginx · VPS · CI/CD |
-| 🔧 **Developer Tools** | VS Code · Git · GitHub · CLI tooling |
-| 🧪 **Engineering** | Testing · Observability · Performance · Reliability |
-
----
-
-## 📐 Engineering Philosophy
-
-I care about software that survives beyond the first release.
-
-### Architecture
-
-> **Make the right thing easy to change.**
-
-### Reliability
-
-> **A system that works most of the time is not a reliable system.**
-
-### Simplicity
-
-> **Complexity should be earned, not introduced by default.**
-
-### Learning
-
-> **Don't memorize the tool. Understand the problem it solves.**
-
-### Building
-
-> **Ideas become valuable when they survive contact with reality.**
-
----
-
-## 🌱 Currently
-
-- Building production-grade software
-- Growing SATRI
-- Exploring AI and intelligent developer tools
-- Learning deeper backend and distributed-system concepts
-- Exploring research directions in technology
-- Working toward larger hardware/robotics ambitions
-
----
-
-## 🔬 Long-Term
-
-My long-term goal isn't simply to become a better programmer.
-
-I want to build an **independent technology and research ecosystem** capable of taking an idea from:
+The goal is to create an environment where an idea can travel from:
 
 ```text
-Question
+Problem
    ↓
 Research
+   ↓
+Experiment
    ↓
 Prototype
    ↓
@@ -205,20 +87,248 @@ Engineering
    ↓
 Product
    ↓
-Real-world Impact
+Impact
 ```
 
-Software is the foundation.
+**Discover. Design. Dominate.**
 
-The destination is much larger.
+<a href="https://satritech.com">🌐 Visit SATRI</a>
+
+---
+
+# 🗣️ I Built a Programming Language
+
+## 🇳🇵 Nepali Programming Language
+
+<a href="https://github.com/sangam-giri/nepali-language">
+
+<img src="https://img.shields.io/badge/Nepali%20Programming%20Language-View%20Project-0B7A75?style=for-the-badge&logo=github&logoColor=white" />
+
+</a>
+
+One of my favorite projects is an attempt to build a **general-purpose programming language written using Nepali / Devanagari syntax**.
+
+The language is implemented in **Rust** and includes much more than a syntax experiment:
+
+```text
+Nepali Source
+      ↓
+Lexer
+      ↓
+Parser
+      ↓
+AST
+      ↓
+Semantic Analysis
+      ↓
+Compiler
+      ↓
+Bytecode
+      ↓
+Nepali VM
+      ↓
+Runtime
+```
+
+The project explores:
+
+- Language design
+- Unicode / Devanagari programming
+- Compiler architecture
+- Lexing & parsing
+- AST design
+- Semantic analysis
+- Type systems
+- Bytecode compilation
+- Virtual machines
+- Runtime design
+- Package management
+- Formatter
+- CLI
+- Language Server / LSP
+- Cross-platform tooling
+
+👉 **[Explore the Nepali Programming Language](https://github.com/sangam-giri/nepali-language)**
+
+---
+
+# 🧩 FlutterMaker
+
+<a href="https://fluttermaker.com">
+
+<img src="https://img.shields.io/badge/FlutterMaker-Less%20Code%2C%20More%20Magic-7B61FF?style=for-the-badge" />
+
+</a>
+
+**FlutterMaker** is my attempt to rethink how Flutter interfaces are built.
+
+The idea started with visual UI development but goes much further:
+
+```text
+Design
+   ↓
+Widgets
+   ↓
+Navigation
+   ↓
+Reusable Components
+   ↓
+Theme / Tokens
+   ↓
+Generated Flutter Code
+   ↓
+Real Project
+```
+
+The long-term goal is an intelligent development environment that understands the **structure and intent of a Flutter project**, rather than simply generating isolated code.
+
+👉 **[Visit FlutterMaker](https://fluttermaker.com)**
+
+---
+
+# 📱 Apps I've Shipped
+
+I don't only build experiments.
+
+I've also spent years building and shipping **production mobile applications**, primarily with Flutter.
+
+### 📲 Google Play
+
+<a href="https://play.google.com/store/apps/developer?id=Sangam+Giri">
+
+<img src="https://img.shields.io/badge/Google%20Play-My%20Apps-414141?style=for-the-badge&logo=googleplay&logoColor=white" />
+
+</a>
+
+My Play Store work includes applications built around real-world use cases rather than just tutorial projects.
+
+👉 **[View my apps on Google Play](https://play.google.com/store/apps/developer?id=Sangam+Giri)**
+
+---
+
+# 🛠️ My Engineering World
+
+| Area | Technologies |
+| :-- | :-- |
+| 📱 **Mobile** | Flutter · Dart · Android · iOS |
+| 🌐 **Web** | Next.js · React · TypeScript |
+| ⚙️ **Backend** | NestJS · Node.js · Django |
+| 🦀 **Systems** | Rust · C/C++ |
+| 🗄️ **Databases** | PostgreSQL · MongoDB · Redis |
+| ☁️ **Infrastructure** | Docker · Linux · Nginx · VPS · CI/CD |
+| 🤖 **AI** | LLMs · AI APIs · Agents · Automation |
+| 🧪 **Research** | Programming Languages · Compilers · Systems · AI |
+| 🔧 **Developer Tools** | CLI · VS Code tooling · Code generation |
+| 🧬 **Architecture** | Clean Architecture · SOLID · Feature-first · Reactive Systems |
+
+---
+
+# 🔬 What I'm Exploring
+
+My interests are deliberately broad.
+
+### 🧠 Artificial Intelligence
+Intelligent agents, automation, AI-assisted development, and systems capable of reasoning over complex environments.
+
+### 🦀 Programming Languages
+Language design, compilers, interpreters, virtual machines, type systems, and developer tooling.
+
+### 🤖 Robotics
+The intersection of software, hardware, AI, and physical-world automation.
+
+### ⚙️ Systems Engineering
+Reliability, distributed systems, offline-first software, infrastructure, performance, and resilient architectures.
+
+### 🔬 Research
+Turning curiosity into experiments, experiments into knowledge, and knowledge into technology.
+
+---
+
+# 📐 How I Think About Engineering
+
+```text
+Understand the problem
+        ↓
+Question the assumptions
+        ↓
+Design the simplest correct system
+        ↓
+Build it
+        ↓
+Measure it
+        ↓
+Break it
+        ↓
+Improve it
+```
+
+I care about:
+
+- **Correctness over cleverness**
+- **Architecture over hacks**
+- **Understanding over memorization**
+- **Long-term maintainability over short-term speed**
+- **Real-world impact over vanity metrics**
+
+---
+
+# 🌱 Beyond Code
+
+I'm interested in much more than software.
+
+**Economics · Psychology · Philosophy · Science · Education · Robotics · Business · Human behavior**
+
+The common thread is **curiosity**.
+
+I tend to connect ideas that appear unrelated and ask:
+
+> *What happens if these things are combined?*
+
+Some of my best projects have started exactly that way.
+
+---
+
+# 🧭 Long-Term Vision
+
+I don't want my career to end with becoming a better software engineer.
+
+I want to eventually build an environment where **researchers, engineers, designers, and builders can turn difficult questions into working technology.**
+
+A place where this is normal:
+
+```text
+"What if?"
+    ↓
+"Let's find out."
+    ↓
+"Let's build it."
+    ↓
+"Let's make it useful."
+```
+
+That's ultimately what SATRI represents to me.
+
+---
+
+# 🔗 Find Me Elsewhere
+
+<div align="center">
+
+<a href="https://satritech.com">🌐 SATRI</a> ·
+<a href="https://fluttermaker.com">🧩 FlutterMaker</a> ·
+<a href="https://github.com/sangam-giri/nepali-language">🇳🇵 Nepali Language</a> ·
+<a href="https://play.google.com/store/apps/developer?id=Sangam+Giri">📱 Google Play</a> ·
+<a href="https://linkedin.com/in/sangam-giri">💼 LinkedIn</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### Curious about how things work.
+### I build what I'm curious about.
 
-### Crazy enough to build them.
+### And I stay curious about what's possible.
 
 <br/>
 
